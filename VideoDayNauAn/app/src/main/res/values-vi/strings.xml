@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Dạy Nấu Ăn</string>
+    <string name="againexit">Nhấn Back lần nữa để Thoát</string>
+    <string name="again">Thử Lại</string>
+    <string name="lost_internet">Mất Internet</string>
+    <string name="update">Chúng tôi đang cập nhật</string>
+    <string name="wrong">Lỗi kết nối, vui lòng thử lại</string>
+</resources>
